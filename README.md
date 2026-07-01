@@ -1,5 +1,16 @@
 # 💫 About Me:
-## 🌐 Acerca de mí<br><br>Soy **Brandon**, estudiante de **Ingeniería en Sistemas y Sistemas de control**, apasionado por crear soluciones tecnológicas que conecten software, inteligencia artificial, diseño y problemas reales.<br><br>Me interesan especialmente el diseño **UI/UX**, el desarrollo de software, la inteligencia artificial, la robótica, el IoT y las tecnologías emergentes. Me gusta aprender mientras construyo: probar ideas, mejorar errores y convertir conceptos técnicos en proyectos funcionales, claros y  realmente útiles.<br><br>Mi objetivo es crecer como un profesional capaz de crear puentes entre las personas y la tecnología, desarrollando soluciones con propósito claro, alto impacto y valor real.<br><br>Fuera del código, disfruto el café, la buena música y las ideas que nacen de una buena conversación.<br>
+
+Hi **Devs**, soy estudiante de Ingeniería en Sistemas y Sistemas de Control. Me apasiona conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
+
+### 🚀 Lo que me mueve
+* 💻 **Desarrollo & UI/UX:** Crear software que no solo funcione, sino que sea intuitivo.
+* 🤖 **IA & Robótica:** Automatizar, aprender construyendo y experimentar con IoT.
+* 💡 **Propósito:** Traducir conceptos técnicos complejos en herramientas útiles y de alto impacto.
+
+---
+
+☕ *Fuera de la pantalla, me encuentras con un buen café, música de fondo y conversando sobre nuevas ideas.*
+
 
 
 ## 🌐 Socials:
