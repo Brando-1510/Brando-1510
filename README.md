@@ -1,11 +1,12 @@
 # 💫 About Me:
 
-Hi **Devs**, soy un estudiante de Ingeniería en Sistemas y Sistemas de Control. Me apasiona conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
+¡Hi **Devs** 🤙🏼!, soy estudiante de Ingeniería de Sistemas y Automática. Apacinado por conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
 
-### 🚀 Lo que me mueve
+### Lo que me mueve
 * 💻 **Desarrollo & UI/UX:** Crear software que no solo funcione, sino que sea intuitivo.
 * 🤖 **IA & Robótica:** Automatizar, aprender construyendo y experimentar con IoT.
 * 💡 **Propósito:** Traducir conceptos técnicos complejos en herramientas útiles y de alto impacto.
+* ⚛️ Física Aplicada: Estudiar cómo se comportan los sistemas complejos, aplicar modelos matemáticos y etender las leyes de la naturaleza.
 
 ---
 
