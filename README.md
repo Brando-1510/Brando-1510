@@ -6,7 +6,7 @@
 * 💻 **Desarrollo & UI/UX:** Crear software que no solo funcione, sino que sea intuitivo.
 * 🤖 **IA & Robótica:** Automatizar, aprender construyendo y experimentar con IoT.
 * 💡 **Propósito:** Traducir conceptos técnicos complejos en herramientas útiles y de alto impacto.
-* ⚛️ Física Aplicada: Estudiar cómo se comportan los sistemas complejos, aplicar modelos matemáticos y etender las leyes de la naturaleza.
+* ⚛️ **Física Aplicada:** Estudiar cómo se comportan los sistemas complejos, aplicar modelos matemáticos y etender las leyes de la naturaleza.
 
 ---
 
