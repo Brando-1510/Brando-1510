@@ -91,7 +91,7 @@ https://github.com/Brando-1510/FINA
 Full Stack Developer
 
 **Description**  
-Un ERP centralizado para concesionarios que automatiza el control de inventario y el ciclo de ventas, al tiempo que ofrece análisis avanzados para la toma de decisiones estratégicas.
+A centralized ERP for dealerships that automates inventory control and the sales cycle, while offering advanced analytics for strategic decision-making.
 
 **Tech**  
 Python • Javascript • MySQL
