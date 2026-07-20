@@ -15,26 +15,38 @@
 
 <br>
 
+## Featured Projects
 
-## 🚀 Featured Projects
+### AgroVision-Intelligence
+**Role:** Frontend/AI Developer · System Architect
 
-<p align="center">
-  <a href="https://github.com/Brando-1510/AgroVision">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=AgroVision&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/Brando-1510/THE-ADAM-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=THE-ADAM-AI&theme=tokyonight&hide_border=true" />
-  </a>
+Prescriptive agricultural intelligence platform focused on crop risk detection, multisource evidence, and actionable field recommendations. Designed to help producers turn images, weather, crop history, and operational mapping into clear, traceable decisions.
 
-  <a href="https://github.com/Brando-1510/FINA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=FINA&theme=tokyonight&hide_border=true" />
-  </a>
+**Tech Stack:** React · TypeScript · CSS · Node.js · Python · FastAPI · PostgreSQL
 
-  <a href="https://github.com/Brando-1510/Proyecto_Integrador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=Proyecto_Integrador&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+🔗 **Repository:** https://github.com/luis-hdz7/AgroVision
+
+### ADAM AI
+**Role:** AI Developer · System Architect
+
+Autonomous AI assistant focused on semantic memory, natural language processing, and modular reasoning. Designed to provide contextual conversations and scalable cognitive capabilities.
+
+**Tech Stack:** Python · FastAPI · React · PostgreSQL · NLP
+
+🔗 **Repository:** https://github.com/Brando-1510/THE-ADAM-AI
+
+---
+
+### FINA
+**Role:** Full Stack Developer
+
+Offline personal and family finance manager designed to simplify expense tracking, savings, debt management and long-term financial planning through an intuitive user experience.
+
+**Tech Stack:** React Native · TypeScript · SQLite · CSS
+
+🔗 **Repository:** https://github.com/Brando-1510/FINA
+
+---
 
 ## 💻 My Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
