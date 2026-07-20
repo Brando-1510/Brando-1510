@@ -10,28 +10,29 @@
 * 🤖 **IA & Robótica:** Automatizar, aprender construyendo y experimentar con IoT.
 * 💡 **Propósito:** Traducir conceptos técnicos complejos en herramientas útiles y con alto impacto.
 * ⚛️ **Física Aplicada:** Estudiar cómo se comportan los sistemas complejos, aplicar modelos matemáticos y entender las leyes de la naturaleza.
-
----
+  
 ☕ *Fuera de la pantalla, me encuentras con un buen café, música de fondo y conversando sobre nuevas ideas.*
----
+
+<br>
+
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Brando-1510/ADAM-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=ADAM-AI&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Brando-1510/AgroVision">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=AgroVision&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/Brando-1510/THE-ADAM-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=THE-ADAM-AI&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/Brando-1510/FINA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=FINA&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/Brando-1510/ShopSecure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=ShopSecure&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Brando-1510/Dealership-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=Dealership-System&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Brando-1510/Proyecto_Integrador">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brando-1510&repo=Proyecto_Integrador&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
