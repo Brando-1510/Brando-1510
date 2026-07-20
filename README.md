@@ -8,8 +8,8 @@
 ### Lo que me mueve
 * 💻 **Desarrollo & UI/UX:** Crear software que no solo funcione, sino que sea intuitivo y accesible.
 * 🤖 **IA & Robótica:** Automatizar, aprender construyendo y experimentar con IoT.
-* 💡 **Propósito:** Traducir conceptos técnicos complejos en herramientas útiles y con alto impacto.
 * ⚛️ **Física Aplicada:** Estudiar cómo se comportan los sistemas complejos, aplicar modelos matemáticos y entender las leyes de la naturaleza.
+* 💡 **Propósito:** Traducir conceptos técnicos complejos en herramientas útiles y con alto valor.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Brando-1510&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
