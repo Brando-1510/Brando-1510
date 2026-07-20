@@ -17,7 +17,7 @@
 
 ## Featured Projects
 
-### AgroVision-Intelligence
+#### AgroVision-Intelligence
 **Role:** Frontend/AI Developer · System Architect
 
 Prescriptive agricultural intelligence platform focused on crop risk detection, multisource evidence, and actionable field recommendations. Designed to help producers turn images, weather, crop history, and operational mapping into clear, traceable decisions.
@@ -26,7 +26,7 @@ Prescriptive agricultural intelligence platform focused on crop risk detection, 
 
 🔗 **Repository:** https://github.com/luis-hdz7/AgroVision
 
-### ADAM AI
+#### ADAM AI
 **Role:** AI Developer · System Architect
 
 Autonomous AI assistant focused on semantic memory, natural language processing, and modular reasoning. Designed to provide contextual conversations and scalable cognitive capabilities.
@@ -37,7 +37,7 @@ Autonomous AI assistant focused on semantic memory, natural language processing,
 
 ---
 
-### FINA
+#### FINA
 **Role:** Full Stack Developer
 
 Offline personal and family finance manager designed to simplify expense tracking, savings, debt management and long-term financial planning through an intuitive user experience.
