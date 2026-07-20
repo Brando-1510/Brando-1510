@@ -6,7 +6,7 @@
 ¡**Hi Devs** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">!, soy estudiante de Ingeniería de Sistemas y Automática. Apasionado por conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
 
 ### Lo que me mueve
-* 💻 **Desarrollo & UI/UX:** Crear software que no solo funcione, sino que sea intuitivo.
+* 💻 **Desarrollo & UI/UX:** Crear software que no solo funcione, sino que sea intuitivo y accesible.
 * 🤖 **IA & Robótica:** Automatizar, aprender construyendo y experimentar con IoT.
 * 💡 **Propósito:** Traducir conceptos técnicos complejos en herramientas útiles y con alto impacto.
 * ⚛️ **Física Aplicada:** Estudiar cómo se comportan los sistemas complejos, aplicar modelos matemáticos y entender las leyes de la naturaleza.
