@@ -1,5 +1,8 @@
-# 💫 About Me:
+<h1 align="center">
+  Welcome to my tech corner 🤖
+</h1>
 
+## 💫 About Me:
 ¡**Hi Devs** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">!, soy estudiante de Ingeniería de Sistemas y Automática. Apasionado por conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
 
 ### Lo que me mueve
