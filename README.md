@@ -72,6 +72,6 @@ Offline personal and family finance manager designed to simplify expense trackin
 ![](https://github-contributor-stats.vercel.app/api?username=Brando-1510&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Brando-1510&icon=2&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=Brando-1510&icon=2&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
