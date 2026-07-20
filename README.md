@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-¡**Hi Devs** <img src="https://githubusercontent.com" width="40" height="40" />!, soy estudiante de Ingeniería de Sistemas y Automática. Apasionado por conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
+¡**Hi Devs** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">!, soy estudiante de Ingeniería de Sistemas y Automática. Apasionado por conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
 
 ### Lo que me mueve
 * 💻 **Desarrollo & UI/UX:** Crear software que no solo funcione, sino que sea intuitivo.
