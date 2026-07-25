@@ -103,9 +103,13 @@ https://github.com/luis-hdz7/Proyecto_Integrador.git
 </table>
 ---
 
-<h2 align="center">GitHub Stats</h2>
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=Brando-1510&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"><br/>
+</p>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=Brando-1510&theme=tokyonight&hide_border=false"> <br/>
 </p>
 
