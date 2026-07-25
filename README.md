@@ -1,6 +1,10 @@
-<h1 align="center">
-  Welcome to my tech corner 🤖
-</h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&duration=3500&pause=1200&color=gradient&reversal=true&center=true&vCenter=true&width=900&lines=+Glad+you're+here!;Welcome+to+my+tech+corner+🤖" />
+</p>
 
 ## 💫 About Me:
 ¡**Hi Devs** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">!, soy estudiante de Ingeniería de Sistemas y Automática. Apasionado por conectar el software, la inteligencia artificial y el hardware para resolver problemas reales.
@@ -108,7 +112,7 @@ https://github.com/luis-hdz7/Proyecto_Integrador.git
 <img src="https://github-readme-stats.shion.dev/api?username=Brando-1510&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"><br/>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Streak Stats</h3>
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Brando-1510&theme=tokyonight&hide_border=false"> <br/>
 </p>
